@@ -1,0 +1,8 @@
+# Folders that need to be ignored.
+.potatos.venv/
+__pycache__/
+
+# Files that need to be ignored.
+.env
+template_*.py
+
